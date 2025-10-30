@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log([{id:8,name:"Двойной выстрел",icon:"http://...",description:"Двойной выстрел наносит двойной урон"},{id:9,name:"Нокаутирующий удар",icon:"http://..."}].map(function(i){var n=i.id,o=i.name,t=i.icon,c=i.description;return{id:n,name:o,icon:t,description:void 0===c?"Описание недоступно":c}}))})();
